@@ -7,5 +7,7 @@ This example should introduce the fundamental concepts of Transformers, includin
 - Text generation
 - Attention mechanisms
 
+---
+
 ### **2️⃣ Expected Output**
 This should generate a continuation of the input text based on GPT-2.

@@ -19,13 +19,13 @@ Welcome to the **Client/Serving Techniques** section of this LLM guide. Here, yo
 
 ---
 
-### What Are Client/Serving Techniques?
+### 1. What Are Client/Serving Techniques?
 
 > Client/Serving Techniques define how you interact with or deploy LLMs in your app or workflow. Whether you’re calling a remote API like GPT-3.5, embedding a model in the browser, or running it locally—these methods help you choose the right setup based on **cost**, **latency**, **privacy**, and **flexibility**.
 
 ---
 
-### 1. MCP Client (Multi-Chain Prompting)
+### 2. MCP Client (Multi-Chain Prompting)
 
 **Multi-Chain Prompting** allows you to break down a complex task into multiple smaller prompts and process them in sequence. This technique:
 
@@ -46,7 +46,7 @@ Prompt 3: "Write an executive summary combining the chosen problem and its best 
 
 ---
 
-### 2. LangChain (Free-Mode Setup)
+### 3. LangChain (Free-Mode Setup)
 
 LangChain allows chaining prompts, agents, and tools with LLMs. You can use LangChain with **OpenAI's free tier** or any free LLM API (like DeepSeek or Cohere’s trial key).
 
@@ -66,7 +66,7 @@ npm install langchain
 
 ---
 
-### 3. Using GPT-Free Clients (OpenAI SDK Alternatives)
+### 4. Using GPT-Free Clients (OpenAI SDK Alternatives)
 
 You can interact with free LLMs using basic HTTP clients or SDKs:
 
@@ -82,7 +82,7 @@ You can interact with free LLMs using basic HTTP clients or SDKs:
 
 ---
 
-### 4. WebLLM (Running LLMs in the Browser)
+### 5. WebLLM (Running LLMs in the Browser)
 
 Run LLMs **locally in the browser** using WebAssembly and WebGPU. Perfect for:
 
@@ -102,7 +102,7 @@ Run LLMs **locally in the browser** using WebAssembly and WebGPU. Perfect for:
 
 ---
 
-### 5. Local Models (Offline LLM Clients)
+### 6. Local Models (Offline LLM Clients)
 
 Use local models like:
 - **GPT4All**
@@ -122,7 +122,7 @@ Use local models like:
 
 ---
 
-### 6. Bonus: HuggingFace Inference API (Free Tier)
+### 7. Bonus: HuggingFace Inference API (Free Tier)
 
 HuggingFace offers free-tier APIs for thousands of hosted models.
 

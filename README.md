@@ -92,6 +92,13 @@ deep-dive-into-llm/
 │   ├── transformer_basics.py # Implementing a simple Transformer  
 │   ├── gpt_fine_tuning.ipynb # Notebook for fine-tuning a GPT model  
 │   ├── tokenization_demo.py  # Exploring tokenization methods  
+│── techniques/           
+│   ├── architecture-and-design-patterns # Overview of Architecture And Design Patterns
+│   ├── client-or-serving                # Overview of Client Or Serving
+│   ├── data-augmentation                # Overview of Data Augmentation
+│   ├── fine-tuning-and-training         # Overview of Fine Tuning And Training
+│   ├── llm-application-infra            # Overview of LLM Application Infrastructure
+│   ├── prompt-engineering               # Overview of Prompt Engineering
 │── datasets/                 # Sample datasets for NLP tasks  
 │── references/               # Research papers, blogs, and books  
 │── CONTRIBUTING.md           # How to contribute to the project  

@@ -1,13 +1,13 @@
 
 ---
 
-## 💎 Client/Serving Techniques for LLMs (Premium Pack Edition)
+## 🔌 Client/Serving Techniques for LLMs (Premium Pack Edition)
 
 Welcome to the **Premium Client/Serving Techniques** guide. This section helps you leverage **state-of-the-art LLMs** (like GPT-4, Claude, Gemini, and Mistral) with best practices for production-ready applications, AI agents, enterprise-grade security, and developer flexibility.
 
 ---
 
-### 📚 Table of Contents
+### 📋 Table of Contents
 
 1. [Why Premium Models?](#why-premium-models)
 2. [OpenAI SDK (GPT-4 & GPT-4 Turbo)](#1-openai-sdk-gpt-4--gpt-4-turbo)

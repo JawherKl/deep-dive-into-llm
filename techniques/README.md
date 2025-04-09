@@ -38,7 +38,7 @@ Specializing LLMs for specific purposes:
 
 ---
 
-## 🕸️ **Architecture & Design Patterns**
+## 🏗️ **Architecture & Design Patterns**
 Designing robust systems based on LLMs:
 
 15. **Agentic Workflows** – Autonomous agents that use tools to plan and execute tasks.

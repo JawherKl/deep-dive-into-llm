@@ -9,7 +9,7 @@ This section dives deep into the **art of crafting effective prompts** — the c
 
 ---
 
-## 📚 Table of Contents
+## 📋 Table of Contents
 
 1. [Zero-shot Prompting](#1-zero-shot-prompting)
 2. [Few-shot Prompting](#2-few-shot-prompting)

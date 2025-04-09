@@ -1,7 +1,7 @@
 
 ---
 
-## 🛠️ Fine-Tuning & Training Techniques for LLMs (Free Pack Friendly)
+## 🧠 Fine-Tuning & Training Techniques for LLMs (Free Pack Friendly)
 
 In this section, we’ll break down powerful training methods that can **customize and enhance LLM behavior**—all while staying within budget by using open-source tools and lightweight model variants.
 

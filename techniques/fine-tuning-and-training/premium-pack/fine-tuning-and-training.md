@@ -1,7 +1,7 @@
 
 ---
 
-## 🛠️ Fine-Tuning & Training Techniques for LLMs (Premium Pack)
+## 🧠 Fine-Tuning & Training Techniques for LLMs (Premium Pack)
 
 When working with premium platforms and high-performance LLMs, fine-tuning becomes a powerful way to create **tailored, production-grade models** for specific industries, tasks, and use cases.
 

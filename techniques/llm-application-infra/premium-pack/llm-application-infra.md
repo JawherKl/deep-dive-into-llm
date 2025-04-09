@@ -9,7 +9,7 @@ This guide covers premium-level infrastructure options that help teams deploy, s
 
 ---
 
-## 📚 Table of Contents
+## 📋 Table of Contents
 
 1. [Enterprise Model-as-a-Service (MaaS)](#1-enterprise-model-as-a-service-maas)
 2. [Managed Model Hosting Platforms](#2-managed-model-hosting-platforms)

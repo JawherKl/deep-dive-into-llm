@@ -9,7 +9,7 @@ With premium models, prompt engineering becomes even more effective, enabling ri
 
 ---
 
-## 📚 Table of Contents
+## 📋 Table of Contents
 
 1. [Zero-shot + Reasoning Boost](#1-zero-shot--reasoning-boost)
 2. [Few-shot with Diverse Contexts](#2-few-shot-with-diverse-contexts)

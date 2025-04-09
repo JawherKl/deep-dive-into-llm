@@ -9,7 +9,7 @@ This section explains the **infrastructure layer** behind LLM-powered applicatio
 
 ---
 
-## 📚 Table of Contents
+## 📋 Table of Contents
 
 1. [Model as a Service (MaaS)](#1-model-as-a-service-maas)
 2. [Serverless Model Execution](#2-serverless-model-execution)

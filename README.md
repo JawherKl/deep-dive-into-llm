@@ -6,7 +6,7 @@
 ![Forks](https://img.shields.io/github/forks/JawherKl/deep-dive-into-llm)
 ![Stars](https://img.shields.io/github/stars/JawherKl/deep-dive-into-llm)
 
-![llm](https://github.com/user-attachments/assets/)
+![llm](https://github.com/JawherKl/deep-dive-into-llm/blob/main/explain-llm.jpg)
 ## 📌 Introduction
 Large Language Models (LLMs) are advanced AI models trained on massive datasets to understand and generate human-like text. They power applications like chatbots, search engines, content generation, and more. This repository serves as a **comprehensive study guide** to understand the fundamentals, inner workings, applications, challenges, and future of LLMs.
 

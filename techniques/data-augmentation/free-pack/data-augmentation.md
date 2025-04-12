@@ -1,6 +1,3 @@
-
----
-
 ## 📚 Data Augmentation Techniques for LLMs (Free Pack Friendly)
 
 In this section, we explore how to **enhance the capabilities of Large Language Models (LLMs)** by augmenting their inputs, context, and memory. These methods help free-tier LLMs feel smarter, more relevant, and better tailored to your use case — without the need for expensive fine-tuning or premium subscriptions.
@@ -121,5 +118,3 @@ Use a tuned prompt:
 These **data augmentation techniques** help boost the power of any LLM, even free-tier models. By combining retrieval, memory, and better prompts, you create **smarter, more helpful AI experiences** without expensive compute or APIs.
 
 > 🚀 Next Up: Dive into **Fine-Tuning Techniques** like LoRA, PEFT, and Instruction Tuning — all with free or local-friendly setups.
-
----

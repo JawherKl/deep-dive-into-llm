@@ -1,6 +1,3 @@
-
----
-
 ## 🔌 Client/Serving Techniques for LLMs (Free Pack Friendly)
 
 Welcome to the **Client/Serving Techniques** section of this LLM guide. Here, you'll discover multiple ways to interact with and serve Large Language Models using *free-tier tools and APIs*—perfect for learning, prototyping, or small-scale projects.
@@ -142,5 +139,3 @@ curl https://api-inference.huggingface.co/models/gpt2 \
 These client/serving techniques offer a **variety of ways to interact with LLMs** without paying for premium plans. Whether you're working online, locally, or in-browser, this guide helps you choose the best **free solution** for your use case.
 
 > ✨ Next Up: Learn how to **augment your LLMs with external knowledge** using techniques like RAG.
-
----

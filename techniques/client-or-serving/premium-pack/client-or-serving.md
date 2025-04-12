@@ -1,6 +1,3 @@
-
----
-
 ## 🔌 Client/Serving Techniques for LLMs (Premium Pack Edition)
 
 Welcome to the **Premium Client/Serving Techniques** guide. This section helps you leverage **state-of-the-art LLMs** (like GPT-4, Claude, Gemini, and Mistral) with best practices for production-ready applications, AI agents, enterprise-grade security, and developer flexibility.
@@ -180,5 +177,3 @@ Premium LLM client/serving options offer:
 Explore and combine these techniques for AI apps that scale from idea to production.
 
 > 💼 Coming Next: Learn to augment premium LLMs with **RAG pipelines**, **tool-based agents**, and **multi-modal capabilities**.
-
----

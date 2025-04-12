@@ -1,6 +1,3 @@
-
----
-
 ## 🏗️ Architecture & Design Patterns for LLMs (Premium Models)
 
 This guide presents **advanced architectural strategies and design patterns** to build intelligent, scalable, and autonomous LLM-powered systems using **premium LLM models** like GPT-4, Claude 3, Gemini 1.5, and Command R+. These models enable **more accurate reasoning**, **longer context**, and **smarter memory/agents**, making it easier to implement complex workflows.
@@ -174,5 +171,3 @@ Premium LLMs unlock next-gen architecture patterns that make it easier to build:
 ✅ Tool-using intelligent systems
 
 > With features like **native tool calling**, **memory**, and **long-form reasoning**, these models empower more intelligent and autonomous software than ever before.
-
----

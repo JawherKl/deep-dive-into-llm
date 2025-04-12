@@ -1,6 +1,3 @@
-
----
-
 ## 🏗️ Architecture & Design Patterns for LLMs (Free Pack Friendly)
 
 This section covers the **design strategies and patterns** used to structure scalable, maintainable, and powerful LLM applications. Even if you’re using free-tier models like GPT-3.5, Mistral, or DeepSeek, these patterns help you build real-world AI features like chatbots, agents, knowledge assistants, and workflows.
@@ -145,5 +142,3 @@ Design patterns and architectural strategies like **ReAct**, **CoT**, **AutoGPT 
 > 💡 These patterns help you go beyond "just chatting" — and into building **real AI applications** that can plan, think, act, and remember.
 
 🔜 Coming Next: **Knowledge Integration Techniques** like Tool Use, Function Calling, Plugins, and External APIs.
-
----

@@ -120,6 +120,7 @@ deep-dive-into-llm/
 - [Stanford CS224N: NLP with Deep Learning](http://web.stanford.edu/class/cs224n/)
 - [Hugging Face Transformers Documentation](https://huggingface.co/docs/transformers/index)
 - [The GPT-4 Technical Report](https://arxiv.org/abs/2303.08774)
+- [LLM-Engineers-Handbook](https://github.com/PacktPublishing/LLM-Engineers-Handbook)
 
 ---
 

@@ -30,9 +30,7 @@ Large Language Models (LLMs) are advanced AI models trained on massive datasets 
 - **Fine-Tuning & Adaptation** (Instruction Tuning, RLHF)
 - **Embedding Representations** (Word2Vec, BERT, GPT-based models)
 
----
-
-## 🔩 Components of LLMs
+### 🔩 Components of LLMs
 1. **Tokenizer**: Breaks text into tokens for model input.
 2. **Embedding Layer**: Converts tokens into numerical representations.
 3. **Transformer Blocks**: Processes text using self-attention mechanisms.
